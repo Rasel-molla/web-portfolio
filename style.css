@@ -1,0 +1,57 @@
+body{
+    font-family: 'Catamaran', sans-serif;
+   margin: 0px;
+
+font-size: 25px;
+
+}
+.name-highlite{
+color: rgb(245, 165, 17);
+
+}
+.h2{
+    font-size: 30px;
+}
+.half-width{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+
+}
+.half-width img{
+width: 100%;
+}
+.top-baner{
+
+    background-image: url("tp.png");
+}
+.section{
+
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+text-decoration:  none;
+background-image: linear-gradient(20deg, lightsalmon,tomato   ) ;
+padding:10px 20px;
+border-radius: 5px;
+color: wheat;
+font-weight: 700;
+
+}
+
+.single-experience{
+    background-color: 10px 20x 40pc rgb(150, 204, 231);
+ height: auto;  
+  width: 500px;
+
+    padding: 50px;
+    margin: 20px;
+    float:right;
+    box-shadow: 10px 10x 30px gray;
+}
+.half-width{
+height: 700px;
+
+}

@@ -5,8 +5,22 @@ padding: 0px;
 
 
 }
+.header{
+
+float: right;
+
+}
+
+.header ul li{
+    display:inline-block;
+  font-size: 25px;
+margin-left: 80px;
+padding: 10px;
+  }
+
+
 .name-highlite{
-    color: rgb(245, 165, 17);
+    color: rgb(119, 230, 15);
     
     }
 .link-button{
@@ -19,7 +33,7 @@ padding: 0px;
 }
         
 .content{
-width: 33%;
+width: 35%;
 margin: 5%;
 padding: 2%;
 display: inline-block;
